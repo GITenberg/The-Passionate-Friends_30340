@@ -1,0 +1,35 @@
+_repo: The-Passionate-Friends_30340
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "The Passionate Friends is a 1949 British romantic drama film directed\
+  \ by David Lean. The film is based on The Passionate Friends: A Novel by H. G. Wells.\
+  \ It describes a love triangle in which a woman cannot give up her affair with another\
+  \ man. The film was entered into the 1949 Cannes Film Festival.\n\n\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2009-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30340'
+  wikidata: Q7756281
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+title: The Passionate Friends
+url: http://www.gutenberg.org/ebooks/30340
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Passionate_Friends:_A_Novel
